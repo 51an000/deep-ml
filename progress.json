@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T09:54:57.072Z",
+  "generated_at": "2026-10-14T09:54:59.697Z",
   "items": {
     "problem:53": {
       "kind": "problem",
@@ -13,6 +13,32 @@
       "last_pushed_at": "2026-10-13T15:54:03.736Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-10-14T09:25:59.788Z",
+      "last_pushed_at": "2026-10-14T09:25:59.788Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:94": {
+      "kind": "problem",
+      "id": "94",
+      "title": "Implement Multi-Head Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/94",
+      "path": "problems/0094-implement-multi-head-attention",
+      "first_solved_at": "2026-10-14T09:52:38.304Z",
+      "last_pushed_at": "2026-10-14T09:52:38.304Z",
+      "language": "python",
+      "lines": 62
     }
   }
 }
