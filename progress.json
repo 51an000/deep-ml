@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T08:03:40.448Z",
+  "generated_at": "2026-10-15T16:15:46.514Z",
   "items": {
     "problem:53": {
       "kind": "problem",
@@ -65,6 +65,19 @@
       "last_pushed_at": "2026-10-15T08:03:39.705Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:372": {
+      "kind": "problem",
+      "id": "372",
+      "title": "Implement RMSNorm (Root Mean Square Layer Normalization)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/372",
+      "path": "problems/0372-implement-rmsnorm-root-mean-square-layer-normalization",
+      "first_solved_at": "2026-10-15T16:15:45.957Z",
+      "last_pushed_at": "2026-10-15T16:15:45.957Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
